@@ -25,6 +25,16 @@ A production-quality Chrome Extension (Manifest V3) that extracts Salesforce CRM
 - **Stage Visualization**: Opportunities grouped by sales stage with totals
 - **Last Sync Tracking**: See when each object type was last extracted
 
+## 📸 Screenshots
+
+### Extension Popup UI
+![Popup Dashboard](screenshots/popup-ui.png)
+*Clean, modern dashboard with 5 tabs for different Salesforce objects, search functionality, and export options*
+
+### Extension Installed
+![Extension Installed](screenshots/extension-installed.png)
+*Extension successfully installed and running in Chrome*
+
 ## 📦 Installation
 
 ### Method 1: Load Unpacked Extension
